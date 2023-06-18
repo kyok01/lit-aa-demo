@@ -1,4 +1,4 @@
-#  Email / SMS Authentication Demo
+#  Email / SMS Authentication + Account Abstranction Demo
 
 ## Get Started
 ```
